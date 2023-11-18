@@ -1,0 +1,189 @@
+Movimento
+Forças
+Equilíbrio
+Energia Mecânica
+Conservação de energia
+Sistema Solar
+Universo
+Fluidos
+Processos Térmicos
+Termologia
+Termodinâmica
+Calor
+Trabalho
+Fenômenos Ondulatórios
+Óptica
+Óptica geométrica
+Óptica física
+Instrumentos Óticos
+Cargas elétricas
+eletrostática
+Campos elétricos
+Corrente Elétrica
+Eletromagnetismo
+Ondas Eletromagnéticas
+Interações de Matéria e Energia
+unidades
+instrumentos de medida
+ordem de grandeza
+Fluidos
+Movimento
+Cinemática
+deslocamento
+velocidade
+aceleração
+variação da quantidade de movimento
+quantidade de movimento
+impulso
+força
+leis de Newton
+Inércia
+Referenciais
+Conservação da quantidade de movimento
+Ação e reação
+Força peso
+força de atrito
+força elástica
+força centrípeta 
+Composição de forças
+momento de força
+máquinas simples 
+Condições de equilíbrio
+Estática
+centro de massa
+MRU
+MRUV
+MCU
+movimento linear uniforme
+movimento linear uniformemente variado
+movimento bidimensional
+composição de movimentos
+movimento circular uniforme
+Trabalho
+Potência 
+Energia cinética
+variação de energia cinética
+Sistemas conservativos
+energia potencial
+conservação de energia mecânica 
+Sistemas dissipativos
+conservação da energia total
+evolução histórica dos modelos do sistema solar
+Lei da Gravitação Universal
+corpos celestes
+Movimento dos corpos celestes
+satélites
+Campo gravitacional
+surgimento do Universo
+Evolução do Universo
+Pressão
+pressão em líquidos
+pressão em fluidos
+Pressão em gases
+Pressão atmosférica 
+Empuxo
+equilíbrio de fluidos
+Vazão
+continuidade em fluidos
+temperatura
+equilíbrio térmico
+Propriedades térmicas dos materiais
+calor específico
+calor específico sensível
+calor específico latente
+dilatação térmica
+condutividade térmica
+mudanças de fase
+Transferência de calor
+Gases Ideais
+Escala absoluta de temperatura
+Ondas
+Fenômenos Ondulatórios
+Instrumentos Óticos
+Corrente Elétrica
+Eletromagnetismo
+equivalente mecânico do calor
+energia interna
+Máquinas térmicas
+rendimento
+Irreversibilidade
+Entropia
+conversão calor-trabalho
+Ondas mecânicas
+propagação de ondas
+superposição de ondas
+Som
+qualidades do som
+trajetória
+Reflexão
+refração
+difração
+interferência de ondas
+Luz
+natureza eletromagnética da luz
+cor
+dispersão da luz
+lentes
+espelhos
+reflexão
+refração 
+Instrumentos óticos
+olho humano
+lentes corretivas
+quantização da carga elétrica
+conservação da carga elétrica
+Interação entre cargas
+força elétrica
+energia potencial elétrica
+Eletrização
+Lei de Couloumb
+indução eletrostática
+Corrente Elétrica
+Propriedades elétricas dos materiais
+condutividade
+resistividade
+condutores
+isolantes
+Leis de Ohm
+materiais ôhmicos
+Circuitos
+Circuitos Elétricos
+Dissipação de energia em resistores
+Potência elétrica
+Campos magnéticos
+ímãs
+Campo magnético terrestre 
+Correntes gerando campos magnéticos
+fios e bobinas
+bobinas
+força magnética sobre cargas
+força magnética sobre correntes
+propriedades magnéticas dos materiais
+Indução eletromagnética
+eletroímãs
+transformadores
+motores
+corrente alternada
+Fontes de energia elétrica
+pilhas
+baterias
+geradores
+Ondas eletromagnéticas
+espectro eletromagnético
+espectro da luz
+transmissão de ondas eletromagnéticas
+rádios
+televisores
+telefones
+Interações fundamentais da natureza
+Estrutura da matéria
+Modelo atômico
+fóton
+fontes de luz
+estrutura nuclear
+núcleo atômico
+estabilidade do átomo
+Radioatividade
+fissão nuclear
+fusão nuclear
+Energia nuclear
