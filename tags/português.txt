@@ -4,6 +4,7 @@ Níveis de significação do texto
 significação explícita
 significação implícita
 denotação e conotação
+leitura
 denotação
 conotação
 Distinção entre variedades do português
@@ -23,6 +24,10 @@ formação das palavras
 concordância nominal
 concordância verbal
 regência
+texto
+interpretação
+interpretação textual
+interpretar
 regência nominal
 regência verbal
 pronomes
